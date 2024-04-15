@@ -1,16 +1,5 @@
 ![github-header-image (1)](https://github.com/taktakgyun/taktakgyun/assets/18041844/db3ec4f8-c5db-46cb-acc6-1bde5deb7c49)
 
-
-### Hi there! 👋
-
-I'm Thakgyun Lee, a passionate web developer from South Korea.
-
-- 🌱 I’m currently learning **Django** and **Flask**
-- 🚀 I use daily: **C#**, **Python**, **PyTorch**, **OpenCV**
-- 📫 How to reach me: leethakgyun@example.com
-- ⚡ Fun fact: I'm a huge fan of Harry Potter
-
-
 <!-- 내용 부분 -->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
