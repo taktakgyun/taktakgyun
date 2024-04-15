@@ -17,7 +17,7 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <!-- 여기에 공부 중인 기술을 추가하세요 -->
+  <img src="https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white" />&nbsp
 </div>
 
 <br>
