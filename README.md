@@ -37,5 +37,8 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <!-- 여기에 연락처 정보를 추가하세요 -->
+  <a href="mailto:vbmrkk@naver.com">
+    <img
+      src="https://img.shields.io/badge/vbmrkk@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
 </div>
