@@ -39,6 +39,6 @@
 <div align="center">
   <a href="mailto:vbmrkk@naver.com">
     <img
-      src="https://img.shields.io/badge/vbmrkk@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/vbmrkk@naver.com-D14836?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
 </div>
