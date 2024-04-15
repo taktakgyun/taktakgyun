@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Vim-019733.svg?style=for-the-badge&logo=vim&logoColor=white" />&nbsp
 </div>
 
 <br>
