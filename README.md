@@ -1,6 +1,5 @@
 ![github-header-image (1)](https://github.com/taktakgyun/taktakgyun/assets/18041844/db3ec4f8-c5db-46cb-acc6-1bde5deb7c49)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there! 👋
 
@@ -11,4 +10,37 @@ I'm Thakgyun Lee, a passionate web developer from South Korea.
 - 📫 How to reach me: leethakgyun@example.com
 - ⚡ Fun fact: I'm a huge fan of Harry Potter
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- 내용 부분 -->
+<h3 align="center">✨ Tech Stack ✨</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp
+</div>
+
+<br>
+
+<h3 align="center">📚 Studying 📚</h3>
+<div align="center">
+  <!-- 여기에 공부 중인 기술을 추가하세요 -->
+</div>
+
+<br>
+
+<h3 align="center">🛠 Tools 🛠</h3>
+<div align="center">
+  <!-- 여기에 사용하는 도구를 추가하세요 -->
+</div>
+
+<br>
+
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <!-- 여기에 연락처 정보를 추가하세요 -->
+</div>
